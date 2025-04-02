@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b450db7-e6de-4a6d-8c59-22b4d2c670ff" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/modify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.class imitation.executor": "Run",
+    "Python.home_work_5.executor": "Run",
     "Python.lesson_1.executor": "Run",
     "Python.main.executor": "Run",
     "Python.modify.executor": "Run",
@@ -111,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742637873949</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <option name="closed" value="true" />
+      <created>1743243506513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743243506513</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
